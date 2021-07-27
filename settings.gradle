@@ -1,0 +1,2 @@
+rootProject.name = "Cache github response 2 hours"
+include ':app'
